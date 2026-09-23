@@ -60,7 +60,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: shivag115/springapp:1.0
+        image: shivag115/springapp:1.0.1
         ports:
         - containerPort: 8080
         env:
